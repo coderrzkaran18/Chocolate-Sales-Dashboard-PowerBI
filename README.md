@@ -1,10 +1,10 @@
 # 🍫 Chocolate Sales Dashboard (Power BI)
 
-## 📌 Project Overview
+## 🔹 Project Overview
 
 This project is an interactive Power BI dashboard developed to analyze chocolate sales data. The dashboard provides valuable insights into sales performance, product trends, country-wise revenue distribution, and salesperson contributions through interactive visualizations.
 
-## 🎯 Objectives
+## 🔹 Objectives
 
 * Analyze overall sales performance.
 * Identify top-performing products.
@@ -12,7 +12,7 @@ This project is an interactive Power BI dashboard developed to analyze chocolate
 * Track salesperson performance.
 * Monitor monthly sales trends.
 
-## 📊 Dashboard Features
+## 🔹 Dashboard Features
 
 * Total Sales Amount KPI
 * Total Boxes Sold KPI
@@ -22,31 +22,31 @@ This project is an interactive Power BI dashboard developed to analyze chocolate
 * Salesperson Performance Tracking
 * Interactive Date Filtering
 
-## 🛠️ Tools Used
+## 🔹 Tools Used
 
 * Power BI
 * Power Query
 * Microsoft Excel
 
-## 📈 Key Insights
+## 🔹 Key Insights
 
 * Generated sales insights from multiple countries.
 * Identified top-performing products and salespersons.
 * Analyzed monthly sales trends for better decision-making.
 * Created an interactive dashboard for business reporting.
 
-## 📷 Dashboard Preview
+## 🔹 Dashboard Preview
 
 ![Dashboard Preview](Dashboard.png)
 
-## 📂 Files Included
+## 🔹 Files Included
 
 * Chocolate_Sales_project_PowerBI.pbix
 * Dashboard.png
 * sample-chocolate-sales-data.xlsx
 
 
-## 🚀 Skills Demonstrated
+## 🔹 Skills Demonstrated
 
 * Data Cleaning
 * Data Transformation
