@@ -42,8 +42,9 @@ This project is an interactive Power BI dashboard developed to analyze chocolate
 ## 📂 Files Included
 
 * Chocolate_Sales_project_PowerBI.pbix
-* sample-chocolate-sales-data.xlsx
 * Dashboard.png
+* sample-chocolate-sales-data.xlsx
+
 
 ## 🚀 Skills Demonstrated
 
